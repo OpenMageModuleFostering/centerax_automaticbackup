@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package>
+    <name>Centerax_AutomaticBackup</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license>GPL</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Automatic DB Backups</summary>
+    <description>Automatic DB Backups</description>
+    <notes>1.0.0
+-----------------------
+First release.</notes>
+    <authors><author><name>Pablo S. Benitez</name><user>auto-converted</user><email>pablos.benitez@gmail.com</email></author></authors>
+    <date>2010-02-11</date>
+    <time>21:12:58</time>
+    <contents><target name="magecommunity"><dir name="Centerax"><dir name="AutomaticBackup"><dir name="etc"><file name="config.xml" hash="e6ead3addc81ac6bee3e948b027de8ad"/></dir><dir name="Helper"><file name="Data.php" hash="26a37821747121447823125b98b6a9f5"/></dir><dir name="Model"><file name="Cron.php" hash="fa2c18c2499751722e2e6c3944187440"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Centerax_AutomaticBackup.xml" hash="b6f0cae5be28faf2c5a17f686a509ec6"/></dir></target><target name="mage"><dir name="."><file name="centerax_db_backup.php" hash="472bf022f5c455f2e11dae2bc38ed8b8"/></dir></target></contents>
+    <compatible/>
+    <dependencies/>
+</package>
