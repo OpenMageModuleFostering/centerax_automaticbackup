@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Centerax_AutomaticBackup",
+    "name": "OpenMageModuleFostering\/Centerax_AutomaticBackup",
     "type": "magento-module",
     "license": "GPL",
     "homepage": "",
     "description": "Automatic DB Backups",
     "authors": [
-    {
-        "name": "Pablo S. Benitez",
-        "email": "pablos.benitez@gmail.com"
-    }
-],
+        {
+            "name": "Pablo S. Benitez",
+            "email": "pablos.benitez@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
